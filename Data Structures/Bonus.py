@@ -17,6 +17,7 @@ Given a list of employee's performance, find the bonus that each employee should
 Example:
 Input: [1, 2, 3, 2, 3, 5, 1]
 Output: [1, 2, 3, 1, 2, 3, 1]
+
 '''
 
 def getBonuses(performance):
